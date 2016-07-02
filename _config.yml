@@ -5,10 +5,4 @@ color:
   lightness: 0.1753875
   brandStrength: 0.4591502
   rhythmicContrast: 0.07020773
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
 name: Sebastian
